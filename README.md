@@ -15,6 +15,6 @@ a better understanding of the problems you encountered during the developmemnt o
 ## Project Team
 - *Jaehoon Lee* - *Computer Science* - Student Team Member
 - *Janissa Hamilton* - *Computer Science* - Student Team Member
-- *Student's Name* - *major* - Student Team Member
+- *Jamarr Brooks* - *Computer Science* - Student Team Member
 - *Student's Name* - *major* - Student Team Member
 - *Student's Name* - *major* - Student Team Member
