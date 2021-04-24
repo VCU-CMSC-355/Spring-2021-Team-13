@@ -1,4 +1,4 @@
-package com.example.darwinsource.ui.home;
+package com.example.darwinsource.ui.finance;
 
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -14,17 +14,17 @@ import androidx.lifecycle.ViewModelProvider;
 
 import com.example.darwinsource.R;
 
-public class HomeFragment extends Fragment {
+public class FinanceFragment extends Fragment {
 
-    private HomeViewModel homeViewModel;
+    private FinanceViewModel financeViewModel;
 
 //    public View onCreateView(@NonNull LayoutInflater inflater,
 //                             ViewGroup container, Bundle savedInstanceState) {
-//        homeViewModel =
-//                new ViewModelProvider(this).get(HomeViewModel.class);
-//        View root = inflater.inflate(R.layout.fragment_home, container, false);
-//        final TextView textView = root.findViewById(R.id.text_home);
-//        homeViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
+//        financeViewModel =
+//                new ViewModelProvider(this).get(FinanceViewModel.class);
+//        View root = inflater.inflate(R.layout.fragment_finance, container, false);
+//        final TextView textView = root.findViewById(R.id.text_slideshow);
+//        financeViewModel.getText().observe(getViewLifecycleOwner(), new Observer<String>() {
 //            @Override
 //            public void onChanged(@Nullable String s) {
 //                textView.setText(s);
