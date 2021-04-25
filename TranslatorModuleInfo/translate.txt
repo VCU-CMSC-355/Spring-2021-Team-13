@@ -1,0 +1,3 @@
+GERMAN,german.txt
+FRENCH,french.txt
+SPANISH,spanish.txt
