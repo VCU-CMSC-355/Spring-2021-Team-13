@@ -12,14 +12,14 @@
         tools:layout="@layout/fragment_home" />
 
     <fragment
-        android:id="@+id/nav_gallery"
-        android:name="com.example.darwinsource.ui.gallery.GalleryFragment"
-        android:label="@string/menu_gallery"
-        tools:layout="@layout/fragment_gallery" />
+        android:id="@+id/nav_dictionary"
+        android:name="com.example.darwinsource.ui.dictionary.DictionaryFragment"
+        android:label="@string/menu_dictionary"
+        tools:layout="@layout/fragment_dictionary" />
 
     <fragment
-        android:id="@+id/nav_slideshow"
-        android:name="com.example.darwinsource.ui.slideshow.SlideshowFragment"
-        android:label="@string/menu_slideshow"
-        tools:layout="@layout/fragment_slideshow" />
+        android:id="@+id/nav_finance"
+        android:name="com.example.darwinsource.ui.finance.FinanceFragment"
+        android:label="@string/menu_finance"
+        tools:layout="@layout/fragment_finance" />
 </navigation>
