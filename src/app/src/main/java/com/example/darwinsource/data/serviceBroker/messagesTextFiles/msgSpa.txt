@@ -1,0 +1,5 @@
+404,"No encontrado"
+703,"Servicio no encontrado"
+805,"Idioma no encontrado"
+813,"Palabra no encontrada"
+903,"Año fiscal no encontrado"
