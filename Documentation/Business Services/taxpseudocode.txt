@@ -1,0 +1,14 @@
+Take input:  gross income, year
+
+Parse/read through tax file with name year.txt
+Create a matrix 2 x # of brackets
+Get each rate and bracket, put them in the matrix
+
+Compare gross income to the bracket
+if gross income is >= bracket, multiply bracket by rate 
+Add to sum
+Subtract bracket from remaining (Remaining = gross income) 
+when the gross income is < the income in the .txt file, 
+add (remaining * rate) to sum
+
+Output: the sum
